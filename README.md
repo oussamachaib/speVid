@@ -1,2 +1,2 @@
 # spevid
-Basic script to convert an .spe image partition to a video
+Basic script to convert a .spe image partition to a video
